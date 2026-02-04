@@ -1,13 +1,14 @@
 {
   "test": {
     "requirements": [
-      { "type": "Expiration", "value": 1735689600 }
+      { "type": "Group", "value": 361729657 }
     ],
     "rewards": [
       { "type": "Yen", "value": 10000 }
     ]
   }
 }
+
 
 
 
