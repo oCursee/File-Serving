@@ -1,7 +1,6 @@
 {
   "test": {
     "requirements": [
-      { "type": "Group", "value": 1735689600 }
       { "type": "Expiration", "value": 1735689600 }
     ],
     "rewards": [
@@ -9,5 +8,6 @@
     ]
   }
 }
+
 
 
